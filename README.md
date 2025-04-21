@@ -1,0 +1,2 @@
+# Sparta_TextRPG_battleProgress
+battleProgress Script
